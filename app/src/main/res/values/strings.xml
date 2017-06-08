@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">RxJavaLearnDemo</string>
+    <string name="rxjava_operator">Rxjava Operator</string>
+    <string name="operator_create">Operator Create</string>
+    <string name="operator_change">Operator Change</string>
+    <string name="operator_condition">Operator Condition</string>
+    <string name="operator_caculate">Operator Caculate</string>
+    <string name="operator_help">Operator Help</string>
+    <string name="operator_error">Operator Error</string>
+    <string name="operator_combine">Operator Combine</string>
+    <string name="operator_connect">Operator Connect</string>
+    <string name="operator_filter">Operator Filter</string>
+    <string name="create">Create</string>
+    <string name="defer">Defer</string>
+    <string name="from">From</string>
+
+
+
+
+
 </resources>
