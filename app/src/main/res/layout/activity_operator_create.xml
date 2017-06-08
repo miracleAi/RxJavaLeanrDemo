@@ -15,10 +15,10 @@
             android:layout_height="wrap_content"
             android:text="@string/create"/>
         <Button
-            android:id="@+id/defer_btn"
+            android:id="@+id/just_btn"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/defer"/>
+            android:text="@string/just"/>
         <Button
             android:id="@+id/from_btn"
             android:layout_width="match_parent"
